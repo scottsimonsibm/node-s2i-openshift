@@ -52,8 +52,8 @@ app.get('/info', function(req, res) {
   if (CURRENTMODE == MODE.TEST) {
     patientdata = {
       "personal": {
-        "name": "Ralph DAlmeida",
-        "age": 38,
+        "name": "Tony Danza",
+        "age": 66,
         "gender": "male",
         "street": "34 Main Street",
         "city": "Toronto",
